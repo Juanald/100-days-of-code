@@ -1,3 +1,4 @@
+# art from https://ascii.co.uk/art/calculator
 logo = """           _            _       _             
           | |          | |     | |            
   ___ __ _| | ___ _   _| | __ _| |_ ___  _ __ 
