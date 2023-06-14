@@ -1,2 +1,4 @@
-This file contains two projects. One is a simple etch a sketch using the turtle module. You are able to control the cursor with the wasd keys, and reset the sketch with the c key.
-The second project is a turtle racing game. Each turtle has a seperate colour, and the user is able to bet on what turtle they think will win at the beginning of the race. This may be developed further with a money keeping system, bet multipliers, turtle favourites, score keeping, and so on. 
+This file contains two projects. One is a simple etch a sketch using the turtle module. You are able to control the cursor with the wasd keys, '
+and reset the sketch with the c key.
+The second project is a turtle racing game. Each turtle has a seperate colour, and the user is able to bet on what turtle they think will win 
+at the beginning of the race. This may be developed further with a money keeping system, bet multipliers, turtle favourites, score keeping, and so on. 
