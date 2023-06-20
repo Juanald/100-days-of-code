@@ -1,0 +1,19 @@
+Car manager:
+    Spawn car of random color at random location on the right
+    Make cars go leftward at a velocity that increases with levelup
+    Out of bounds function
+
+Player:
+    Keybindings up and down
+    Levelup method(speed of cars increase, player reset, scoreboard += 1)
+
+Scoreboard:
+    Create a scoreboard in the top left of black color, font, etc.
+    Levelup class
+    Game over method
+
+main:
+    On every 6th iteration of the loop, spawn a car until fixed amount
+    Speed of the car determined by sleep method?
+    If car pass left bound, goto right side
+    If collide, break from loop. Print game over screen
