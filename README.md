@@ -1,2 +1,2 @@
 # 100-days-of-code
-This repository is meant to store the projects I complete as part of the 100 days of code course by Dr. Angela Yu on Udemy
+This repository stores the first part of the projects I created as part of Angela Yu's Python Udemy course
